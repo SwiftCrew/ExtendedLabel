@@ -4,7 +4,7 @@ Here you can set padding of the Label text, Also you can rotate the Label, Drag 
 ## Requirements
 - iOS 8.0+
 - Xcode 10+
-- Swift 4.2
+- Swift 5
 
 ## Usage
 
